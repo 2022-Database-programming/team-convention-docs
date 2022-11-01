@@ -12,9 +12,6 @@
 - [Github commit message convention](https://seolahchloe.tistory.com/entry/GitHub-%EA%B9%83-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%84%B8%EC%A7%80-%EC%BB%A8%EB%B2%A4%EC%85%98-Git-Commit-Message-Convention)
 
 ## Code Convention
-### Frontend
-- [클린코드 자바스크립트](https://github.com/ryanmcdermott/clean-code-javascript)
-- [클린코드 타입스크립트](https://github.com/738/clean-code-typescript)
 ### Backend
 - [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
 - [좋은 코드를 위한 자바 변수명 네이밍](https://tecoble.techcourse.co.kr/post/2020-04-24-variable_naming/)
